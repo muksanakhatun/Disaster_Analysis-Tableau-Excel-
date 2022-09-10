@@ -1,6 +1,6 @@
 # Tableau-project
 # Tableau-Projects
-Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
+Learnt Data Visualization and Data Analytics with Tableau by solving 2 Realistic Analytics Projects.
   <pre>
   1. Natural disaster  
   2. Medicare part D drugs  </pre>
