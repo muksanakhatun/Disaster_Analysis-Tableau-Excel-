@@ -29,7 +29,7 @@ This shows different types of natural disaster in the world. From this dashboard
 <!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"><img align="right" width="480" height="400" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"></a> -->
 
 
-#### Next dashboards of natural disaster shows
+### Next dashboards of natural disaster shows
 -Trend of natural disaster, 
 
 -total disaster per disaster type 
@@ -40,14 +40,30 @@ This shows different types of natural disaster in the world. From this dashboard
 <!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%203rd.png"><img align="left" width="490" height="400" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%203rd.png"></a> -->
 
 
-#### Specific disaster flood, storm, extreme temperrature, drought 
--
--
--
--
--
--
--
+### Specific  natural disaster 
+#### - flood,
+
+#### - storm, 
+
+#### - extreme temperrature and Drought
+
+<a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"><img align="right" width="540" height="350" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"></a>
+<!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"><img align="right" width="540" height="3500" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"></a> -->
+
+
+#### 1.So, what is the reasons besind the increrasing frequency of natural disaster?
+
+#### 2.Is there anthropogenic reasons behind this?
+
+#### 3.What we can do to decrease the rate of disaster?
+
+#### 4.Why death rate is decresing but total demage is decreasing?
+
+#### 5.Why some of the countries are more disaster prone?
+
+This projects will answer all this questions. Also 
+
+
 
 
 
