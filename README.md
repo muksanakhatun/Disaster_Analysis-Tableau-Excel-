@@ -47,8 +47,8 @@ This shows different types of natural disaster in the world. From this dashboard
 
 #### - extreme temperrature and Drought
 
-<a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"><img align="right" width="540" height="350" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"></a>
-<!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"><img align="right" width="540" height="3500" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"></a> -->
+<a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"><img align="right" width="700" height="350" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"></a>
+<!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"><img align="right" width="700" height="350" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%204th.png"></a> -->
 
 
 #### 1.So, what is the reasons besind the increrasing frequency of natural disaster?
