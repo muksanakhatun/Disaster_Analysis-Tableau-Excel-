@@ -61,7 +61,11 @@ This shows different types of natural disaster in the world. From this dashboard
 
 #### 5.Why some of the countries are more disaster prone?
 
-This projects will answer all this questions. Also 
+Thi projects will answer all this questions along with other information.
+
+
+
+
 
 
 
@@ -72,6 +76,10 @@ This projects will answer all this questions. Also
 ### 3. UT Mart Sales Analytics Dashboard
 
 <img src="https://github.com/pic linkPNG.PNG" alt="SS 3"/>
+
+
+
+
 
 
 
