@@ -21,9 +21,15 @@ This shows different types of natural disaster in the world. From this dashboard
 <img src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20dis%20front%20page.png" alt="SS 1"/>
 
 
+<a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"><img align="right" width="400" height="400" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"></a>
+<!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"><img align="right" width="400" height="400" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"></a> -->
 
-<a href="https://github.com/mckolu/mckolu/blob/main/1.png"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/1.png"></a>
-<!-- <a href="https://github.com/mckolu/mckolu/blob/main/python.jpg"><img align="right" width="349" height="auto" src="https://github.com/mckolu/mckolu/blob/main/python.jpg"></a> -->
+
+#### Next dashboard of natural disaster shows
+Trend of natural disaster, total disaster per disaster type also forecast of natural disaster for next 10 years.
+
+
+
 
 ### 2. medicare part D 
 <img src="https://github.com pic link Image.PNG" alt="SS 2"/>
