@@ -71,7 +71,7 @@ Thi projects will answer all this questions along with other information.
 
 
 
-### 2. medicare part D 
+i hope you will find this projects usefull and this will increase awareness toward disaster. proper action will be taken to resuce the affect of natural disaster.### 2. medicare part D 
 <img src="https://github.com pic link Image.PNG" alt="SS 2"/>
 ### 3. UT Mart Sales Analytics Dashboard
 
