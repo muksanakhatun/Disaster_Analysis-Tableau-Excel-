@@ -29,7 +29,7 @@ This shows different types of natural disaster in the world. From this dashboard
 <!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"><img align="right" width="480" height="400" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%202nd.png"></a> -->
 
 
-#### Next dashboardS of natural disaster shows
+#### Next dashboards of natural disaster shows
 -Trend of natural disaster, 
 
 -total disaster per disaster type 
@@ -40,7 +40,7 @@ This shows different types of natural disaster in the world. From this dashboard
 <!-- <a href="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%203rd.png"><img align="left" width="490" height="400" src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20disaster%203rd.png"></a> -->
 
 
-speficic disaster flood and storm 
+#### Specific disaster flood, storm, extreme temperrature, drought 
 -
 -
 -
@@ -48,6 +48,8 @@ speficic disaster flood and storm
 -
 -
 -
+
+
 
 ### 2. medicare part D 
 <img src="https://github.com pic link Image.PNG" alt="SS 2"/>
