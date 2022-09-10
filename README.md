@@ -10,6 +10,14 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 https://public.tableau.com/app/profile/muksana.khatun4536#!/
 ## Screenshots
 ### 1. natural disaster analysis Dashboard
+This shows different types of natural disaster in the world. From this dashboard shows:
+
+-Frequency of natural disaster over the years
+
+-Most disaster prone countires
+
+-Total damage, total death, total affected from natural disaster over the years.
+
 <img src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20dis%20front%20page.png" alt="SS 1"/>
 
 
