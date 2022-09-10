@@ -10,7 +10,8 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 https://public.tableau.com/app/profile/muksana.khatun4536#!/
 ## Screenshots
 ### 1. natural disaster analysis Dashboard
-<img src="https://github.pic link.PNG" alt="SS 1"/>
+<img src="https://github.com/muksanakhatun/Tableau-project/blob/main/natural%20dis%20front%20page.png" alt="SS 1"/>
+
 
 ### 2. medicare part D 
 <img src="https://github.com pic link Image.PNG" alt="SS 2"/>
