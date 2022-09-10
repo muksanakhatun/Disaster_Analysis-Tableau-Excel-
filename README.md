@@ -71,7 +71,8 @@ Thi projects will answer all this questions along with other information.
 
 
 
-I hope you will find this projects usefull and this will increase awareness toward disasters. Proper action and mittigation measure will be taken to resuce the affect of natural disasters.
+##### "I hope you will find this projects usefull and this will increase awareness toward disasters. Proper action and mittigation measure will be taken to resuce the affect of natural disasters."
+
 ### 2. medicare part D 
 <img src="https://github.com pic link Image.PNG" alt="SS 2"/>
 ### 3. UT Mart Sales Analytics Dashboard
